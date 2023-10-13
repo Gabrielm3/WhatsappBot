@@ -14,17 +14,17 @@ Este é um bot automatizado simples para WhatsApp Web, desenvolvido em Python us
 ## Instalação
 
 1. Clone este repositório:
-   ```
-   git clone https://github.com/gabrielm3/WhatsAppBot.git
-   ```
-   Navegue até o diretório do projeto:
-   ```
-   cd WhatsAppBot
-   ```
-   Instale as dependências:
-   ```
-   pip install selenium
-   ```
+```
+git clone https://github.com/gabrielm3/WhatsAppBot.git
+```
+Navegue até o diretório do projeto:
+```
+cd WhatsAppBot
+```
+Instale as dependências:
+```
+pip install selenium
+```
 
 Faça o download do Webdriver do Chrome e coloque-o no diretório do projeto ou adicione o caminho para o executável nas variáveis de ambiente do sistema.
 
